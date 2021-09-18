@@ -1,2 +1,2 @@
 # github-demo
-Config files for my GitHub profile.
+A simple repository to show basic Git workflow
