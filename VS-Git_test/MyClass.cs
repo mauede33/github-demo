@@ -5,6 +5,7 @@ namespace VSGit_test
     {
         public MyClass()
         {
+            Console.WriteLine("Ho vinto");
         }
     }
 }
